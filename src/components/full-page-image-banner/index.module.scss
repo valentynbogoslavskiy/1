@@ -1,0 +1,9 @@
+$bgImagesPath: '../../../public/images/image-banners';
+
+.placeholder {
+  background-image: url('#{$bgImagesPath}/placeholder.jpg');
+}
+
+// .home {
+//   background-image: url('./../../public/images/image-banners/home.jpg');// add home jpg image
+// }

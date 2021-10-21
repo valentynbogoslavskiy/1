@@ -1,0 +1,33 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "lib": ["dom", "dom.iterable", "esnext"],
+        "allowJs": true,
+        "skipLibCheck": true,
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "noEmit": true,
+        "esModuleInterop": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "jsx": "preserve",
+        "baseUrl": ".",
+        "paths": {
+            "@styles-config": ["src/styles-config"],
+            "@components/*": ["src/components/*"],
+            "@components": ["src/components"],
+            "@layouts": ["src/layouts"],
+            "@uikit": ["src/uikit"],
+            "@interfaces/*": ["interfaces/*"],
+            "@services/*": ["services/*"],
+            "@styles/*": ["src/styles/*"],
+            "@styles": ["src/styles"],
+            "@public/*": ["public/*"],
+            "@public": ["public"]
+        }
+    },
+    "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "**/**/*.tsx", "**/**/*.ts"],
+    "exclude": ["node_modules", "cypress/*"]
+}

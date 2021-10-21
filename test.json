@@ -1,0 +1,29 @@
+[{
+  "id": 1,
+  "first_name": "Hedvig",
+  "last_name": "Weyland",
+  "email": "hweyland0@bluehost.com",
+  "gender": "Bigender",
+  "ip_address": "199.217.79.52"
+}, {
+  "id": 2,
+  "first_name": "Renate",
+  "last_name": "Walkden",
+  "email": "rwalkden1@yelp.com",
+  "gender": "Female",
+  "ip_address": "156.244.122.202"
+}, {
+  "id": 3,
+  "first_name": "Hilary",
+  "last_name": "Lambkin",
+  "email": "hlambkin2@instagram.com",
+  "gender": "Agender",
+  "ip_address": "6.184.81.54"
+}, {
+  "id": 4,
+  "first_name": "Rafa",
+  "last_name": "Horribine",
+  "email": "rhorribine3@blogspot.com",
+  "gender": "Female",
+  "ip_address": "200.196.34.76"
+}]

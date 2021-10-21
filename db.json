@@ -1,0 +1,161 @@
+{
+  "home": {
+    "title": "It is HOME page",
+    "header": {
+      "menu": ["About Us", "Join Us", "Download", "FAQ", "News", "Contacts"], 
+      "auth": ["Register", "Register", "Login"],
+      "icons": [{"name": "cart", "count": 10}, {"name": "favourites", "count": 5}]
+    },
+    "footer": {
+      "menu": [
+        {"id": "1", "title": "Sensors", "path": "/"},
+        {"id": "2", "title": "Micro-heaters", "path": "/"},
+        {"id": "3", "title": "Micro-pumps", "path": "/"},
+        {"id": "4", "title": "RNA Extraction", "path": "/"},
+        {"id": "5", "title": "Consulting & Innovation", "path": "/"},
+        {"id": "6", "title": "About us", "path": "/"},
+        {"id": "7", "title": "Join us", "path": "/"},
+        {"id": "8", "title": "Download", "path": "/"},
+        {"id": "9", "title": "FAQ", "path": "/"},
+        {"id": "10", "title": "News", "path": "/"},
+        {"id": "11", "title": "Contact", "path": "/"},
+        {"id": "12", "title": "Feedback", "path": "/"},
+        {"id": "13", "title": "Sitemap", "path": "/"}
+      ], 
+      "socialLinks": [
+        {"id": "100", "title": "facebook", "path": "/fb"},
+        {"id": "101", "title": "youtube", "path": "/yt"},
+        {"id": "102", "title": "linkedin", "path": "/ln"},
+        {"id": "103", "title": "twitter", "path": "/tw"}
+      ],
+      "legalMenu": [
+        {"id": "200", "title": "Terms", "path": "/"},
+        {"id": "201", "title": "Privacy", "path": "/"},
+        {"id": "202", "title": "Legal notice", "path": "/"},
+        {"id": "203", "title": "Imprint", "path": "/"}
+      ]
+    },
+    "main": {
+      "heading": "Hi it is the main page"
+    }
+  },
+  "login": {
+    "title": "It is HOME page",
+    "header": {
+      "menu": ["About Us", "Join Us", "Download", "FAQ", "News", "Contacts"], 
+      "auth": ["Register", "Register", "Login"],
+      "icons": [{"name": "cart", "count": 10}, {"name": "favourites", "count": 0}]
+    },
+    "footer": {
+      "menu": [
+        {"id": "1", "title": "Sensors", "path": "/"},
+        {"id": "2", "title": "Micro-heaters", "path": "/"},
+        {"id": "3", "title": "Micro-pumps", "path": "/"},
+        {"id": "4", "title": "RNA Extraction", "path": "/"},
+        {"id": "5", "title": "Consulting & Innovation", "path": "/"},
+        {"id": "6", "title": "About us", "path": "/"},
+        {"id": "7", "title": "Join us", "path": "/"},
+        {"id": "8", "title": "Download", "path": "/"},
+        {"id": "9", "title": "FAQ", "path": "/"},
+        {"id": "10", "title": "News", "path": "/"},
+        {"id": "11", "title": "Contact", "path": "/"},
+        {"id": "12", "title": "Feedback", "path": "/"},
+        {"id": "13", "title": "Sitemap", "path": "/"}
+      ], 
+      "socialLinks": [
+        {"id": "100", "title": "facebook", "path": "/fb"},
+        {"id": "101", "title": "youtube", "path": "/yt"},
+        {"id": "102", "title": "linkedin", "path": "/ln"},
+        {"id": "103", "title": "twitter", "path": "/tw"}
+      ],
+      "legalMenu": [
+        {"id": "200", "title": "Terms", "path": "/"},
+        {"id": "201", "title": "Privacy", "path": "/"},
+        {"id": "202", "title": "Legal notice", "path": "/"},
+        {"id": "203", "title": "Imprint", "path": "/"}
+      ]
+    }
+  },
+  "aboutus": {
+    "title": "It is About Us page",
+    "header": {
+      "menu": ["About Us", "Join Us", "Download", "FAQ", "News", "Contacts"], 
+      "auth": ["Register", "Register", "Login"],
+      "icons": [{"name": "cart", "count": 10}, {"name": "favourites", "count": 0}]
+    },
+    "footer": {
+      "menu": [
+        {"id": "1", "title": "Sensors", "path": "/"},
+        {"id": "2", "title": "Micro-heaters", "path": "/"},
+        {"id": "3", "title": "Micro-pumps", "path": "/"},
+        {"id": "4", "title": "RNA Extraction", "path": "/"},
+        {"id": "5", "title": "Consulting & Innovation", "path": "/"},
+        {"id": "6", "title": "About us", "path": "/"},
+        {"id": "7", "title": "Join us", "path": "/"},
+        {"id": "8", "title": "Download", "path": "/"},
+        {"id": "9", "title": "FAQ", "path": "/"},
+        {"id": "10", "title": "News", "path": "/"},
+        {"id": "11", "title": "Contact", "path": "/"},
+        {"id": "12", "title": "Feedback", "path": "/"},
+        {"id": "13", "title": "Sitemap", "path": "/"}
+      ], 
+      "socialLinks": [
+        {"id": "100", "title": "facebook", "path": "/fb"},
+        {"id": "101", "title": "youtube", "path": "/yt"},
+        {"id": "102", "title": "linkedin", "path": "/ln"},
+        {"id": "103", "title": "twitter", "path": "/tw"}
+      ],
+      "legalMenu": [
+        {"id": "200", "title": "Terms", "path": "/"},
+        {"id": "201", "title": "Privacy", "path": "/"},
+        {"id": "202", "title": "Legal notice", "path": "/"},
+        {"id": "203", "title": "Imprint", "path": "/"}
+      ]
+    }
+  },
+  "joinus": {
+    "title": "It is Join Us page",
+    "header": {
+      "menu": ["About Us", "Join Us", "Download", "FAQ", "News", "Contacts"], 
+      "auth": ["Register", "Register", "Login"],
+      "icons": [{"name": "cart", "count": 10}, {"name": "favourites", "count": 0}]
+    },
+    "footer": {
+      "menu": [
+        {"id": "1", "title": "Sensors", "path": "/"},
+        {"id": "2", "title": "Micro-heaters", "path": "/"},
+        {"id": "3", "title": "Micro-pumps", "path": "/"},
+        {"id": "4", "title": "RNA Extraction", "path": "/"},
+        {"id": "5", "title": "Consulting & Innovation", "path": "/"},
+        {"id": "6", "title": "About us", "path": "/"},
+        {"id": "7", "title": "Join us", "path": "/"},
+        {"id": "8", "title": "Download", "path": "/"},
+        {"id": "9", "title": "FAQ", "path": "/"},
+        {"id": "10", "title": "News", "path": "/"},
+        {"id": "11", "title": "Contact", "path": "/"},
+        {"id": "12", "title": "Feedback", "path": "/"},
+        {"id": "13", "title": "Sitemap", "path": "/"}
+      ], 
+      "socialLinks": [
+        {"id": "100", "title": "facebook", "path": "/fb"},
+        {"id": "101", "title": "youtube", "path": "/yt"},
+        {"id": "102", "title": "linkedin", "path": "/ln"},
+        {"id": "103", "title": "twitter", "path": "/tw"}
+      ],
+      "legalMenu": [
+        {"id": "200", "title": "Terms", "path": "/"},
+        {"id": "201", "title": "Privacy", "path": "/"},
+        {"id": "202", "title": "Legal notice", "path": "/"},
+        {"id": "203", "title": "Imprint", "path": "/"}
+      ]
+    }
+  }
+}
+
+
+
+
+
+
+
+
